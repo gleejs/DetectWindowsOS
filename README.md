@@ -22,3 +22,8 @@ https://blogs.msdn.microsoft.com/koteshb/2010/02/12/powershell-how-to-find-detai
 
 
 PS C:\> (Get-WmiObject Win32_OperatingSystem).OSArchitecture
+
+
+https://jonconwayuk.wordpress.com/2014/03/20/windows-operating-system-wmi-filter-queries/
+
+http://www.nogeekleftbehind.com/2013/09/10/updated-list-of-os-version-queries-for-wmi-filters/
